@@ -1,0 +1,22 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattb20/nodepractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattb20/nodepractice/issues"
+  },
+  "homepage": "https://github.com/mattb20/nodepractice#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
